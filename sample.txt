@@ -9,3 +9,6 @@ dsf
 df
 
 an update added to file
+
+adding some new line to sample.txt file 
+
